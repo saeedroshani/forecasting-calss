@@ -1,0 +1,2851 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="r" attr.type="int" for="node" id="r"/>
+    <key attr.name="g" attr.type="int" for="node" id="g"/>
+    <key attr.name="b" attr.type="int" for="node" id="b"/>
+    <key attr.name="x" attr.type="float" for="node" id="x"/>
+    <key attr.name="y" attr.type="float" for="node" id="y"/>
+    <key attr.name="size" attr.type="float" for="node" id="size"/>
+    <key attr.name="Degree" attr.type="int" for="node" id="degree"/>
+    <key attr.name="Eccentricity" attr.type="double" for="node" id="eccentricity"/>
+    <key attr.name="Closeness_Centrality" attr.type="double" for="node" id="closeness_centrality"/>
+    <key attr.name="Harmonic_Closeness_Centrality" attr.type="double" for="node" id="harmonic_closeness_centrality"/>
+    <key attr.name="Betweenness_Centrality" attr.type="double" for="node" id="betweenness_centrality"/>
+    <key attr.name="Weighted_Degree" attr.type="double" for="node" id="weighted_degree"/>
+    <key attr.name="Modularity Class" attr.type="int" for="node" id="modularity_class"/>
+    <key attr.name="Weighted Degree" attr.type="double" for="node" id="weighted degree"/>
+    <key attr.name="Closeness Centrality" attr.type="double" for="node" id="closnesscentrality"/>
+    <key attr.name="Harmonic Closeness Centrality" attr.type="double" for="node" id="harmonicclosnesscentrality"/>
+    <key attr.name="Betweenness Centrality" attr.type="double" for="node" id="betweenesscentrality"/>
+    <key attr.name="Edge_Label" attr.type="string" for="edge" id="edge_label"/>
+    <graph edgedefault="undirected">
+        <node id="n67">
+            <data key="label">Digital Twin</data>
+            <data key="degree">31</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closeness_centrality">0.9350649</data>
+            <data key="harmonic_closeness_centrality">0.9652778</data>
+            <data key="betweenness_centrality">0.34222388</data>
+            <data key="weighted_degree">533.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">388.0</data>
+            <data key="closnesscentrality">0.3629441624365482</data>
+            <data key="harmonicclosnesscentrality">0.4885780885780888</data>
+            <data key="betweenesscentrality">0.8402442627794741</data>
+            <data key="size">40.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-0.0017854257</data>
+            <data key="y">0.011088598</data>
+        </node>
+        <node id="n92">
+            <data key="label">Machine Learning</data>
+            <data key="degree">10</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.7128713</data>
+            <data key="harmonic_closeness_centrality">0.7986111</data>
+            <data key="betweenness_centrality">0.064448364</data>
+            <data key="weighted_degree">111.0</data>
+            <data key="modularity_class">3</data>
+            <data key="weighted degree">24.0</data>
+            <data key="closnesscentrality">0.26579925650557623</data>
+            <data key="harmonicclosnesscentrality">0.32817182817182816</data>
+            <data key="betweenesscentrality">0.22269280015758888</data>
+            <data key="size">19.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">6.065142</data>
+            <data key="y">-454.86224</data>
+        </node>
+        <node id="n24">
+            <data key="label">Cyber-physical Systems</data>
+            <data key="degree">3</data>
+            <data key="eccentricity">10.0</data>
+            <data key="closeness_centrality">0.6824645</data>
+            <data key="harmonic_closeness_centrality">0.7673611</data>
+            <data key="betweenness_centrality">0.045907177</data>
+            <data key="weighted_degree">84.0</data>
+            <data key="modularity_class">1</data>
+            <data key="weighted degree">4.0</data>
+            <data key="closnesscentrality">0.15021008403361344</data>
+            <data key="harmonicclosnesscentrality">0.1736263736263735</data>
+            <data key="betweenesscentrality">0.027873534915788437</data>
+            <data key="size">12.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-488.61758</data>
+            <data key="y">-374.87637</data>
+        </node>
+        <node id="n33">
+            <data key="label">Internet Of Things</data>
+            <data key="degree">6</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.6857143</data>
+            <data key="harmonic_closeness_centrality">0.7708333</data>
+            <data key="betweenness_centrality">0.04393526</data>
+            <data key="weighted_degree">93.0</data>
+            <data key="modularity_class">4</data>
+            <data key="weighted degree">11.0</data>
+            <data key="closnesscentrality">0.21932515337423314</data>
+            <data key="harmonicclosnesscentrality">0.26524309024309006</data>
+            <data key="betweenesscentrality">0.08234019501625135</data>
+            <data key="size">15.0</data>
+            <data key="r">0</data>
+            <data key="g">189</data>
+            <data key="b">148</data>
+            <data key="x">310.66898</data>
+            <data key="y">-22.849358</data>
+        </node>
+        <node id="n97">
+            <data key="label">Smart Manufacturing</data>
+            <data key="degree">5</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.6666667</data>
+            <data key="harmonic_closeness_centrality">0.75</data>
+            <data key="betweenness_centrality">0.039395735</data>
+            <data key="weighted_degree">92.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">11.0</data>
+            <data key="closnesscentrality">0.2708333333333333</data>
+            <data key="harmonicclosnesscentrality">0.3282051282051286</data>
+            <data key="betweenesscentrality">0.05535309760661873</data>
+            <data key="size">14.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">421.73062</data>
+            <data key="y">-318.39514</data>
+        </node>
+        <node id="n114">
+            <data key="label">Artificial Intelligence</data>
+            <data key="degree">6</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.6545454</data>
+            <data key="harmonic_closeness_centrality">0.7361111</data>
+            <data key="betweenness_centrality">0.01854834</data>
+            <data key="weighted_degree">101.0</data>
+            <data key="modularity_class">1</data>
+            <data key="weighted degree">20.0</data>
+            <data key="closnesscentrality">0.2619047619047619</data>
+            <data key="harmonicclosnesscentrality">0.3071928071928073</data>
+            <data key="betweenesscentrality">0.1722643553629469</data>
+            <data key="size">15.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-358.57883</data>
+            <data key="y">-295.39764</data>
+        </node>
+        <node id="n61">
+            <data key="label">Deep Learning</data>
+            <data key="degree">3</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.6545454</data>
+            <data key="harmonic_closeness_centrality">0.7361111</data>
+            <data key="betweenness_centrality">0.022243917</data>
+            <data key="weighted_degree">141.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">45.0</data>
+            <data key="closnesscentrality">0.269811320754717</data>
+            <data key="harmonicclosnesscentrality">0.320629370629371</data>
+            <data key="betweenesscentrality">0.04156406973308382</data>
+            <data key="size">12.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">412.60748</data>
+            <data key="y">7.336258</data>
+        </node>
+        <node id="n31">
+            <data key="label">Sensors</data>
+            <data key="degree">3</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.62608695</data>
+            <data key="harmonic_closeness_centrality">0.7013889</data>
+            <data key="betweenness_centrality">0.013427594</data>
+            <data key="weighted_degree">75.0</data>
+            <data key="modularity_class">1</data>
+            <data key="weighted degree">8.0</data>
+            <data key="closnesscentrality">0.21091445427728614</data>
+            <data key="harmonicclosnesscentrality">0.241916416916417</data>
+            <data key="betweenesscentrality">0.06835418103023737</data>
+            <data key="size">12.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-411.08167</data>
+            <data key="y">-326.407</data>
+        </node>
+        <node id="n144">
+            <data key="label">Data Models</data>
+            <data key="degree">5</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.6233766</data>
+            <data key="harmonic_closeness_centrality">0.6979167</data>
+            <data key="betweenness_centrality">0.019825395</data>
+            <data key="weighted_degree">126.0</data>
+            <data key="modularity_class">12</data>
+            <data key="weighted degree">27.0</data>
+            <data key="closnesscentrality">0.22274143302180685</data>
+            <data key="harmonicclosnesscentrality">0.26539294039294037</data>
+            <data key="betweenesscentrality">0.10814537575100955</data>
+            <data key="size">14.0</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">98.55932</data>
+            <data key="y">394.26007</data>
+        </node>
+        <node id="n5">
+            <data key="label">Virtual Reality</data>
+            <data key="degree">6</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.6233766</data>
+            <data key="harmonic_closeness_centrality">0.6979167</data>
+            <data key="betweenness_centrality">0.021686036</data>
+            <data key="weighted_degree">82.0</data>
+            <data key="modularity_class">5</data>
+            <data key="weighted degree">19.0</data>
+            <data key="closnesscentrality">0.21865443425076453</data>
+            <data key="harmonicclosnesscentrality">0.2646603396603396</data>
+            <data key="betweenesscentrality">0.06894513936767457</data>
+            <data key="size">15.0</data>
+            <data key="r">255</data>
+            <data key="g">85</data>
+            <data key="b">132</data>
+            <data key="x">-244.0267</data>
+            <data key="y">380.92435</data>
+        </node>
+        <node id="n23">
+            <data key="label">Cloud Computing</data>
+            <data key="degree">5</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.6</data>
+            <data key="harmonic_closeness_centrality">0.6666667</data>
+            <data key="betweenness_centrality">0.006620576</data>
+            <data key="weighted_degree">96.0</data>
+            <data key="modularity_class">3</data>
+            <data key="weighted degree">25.0</data>
+            <data key="closnesscentrality">0.26579925650557623</data>
+            <data key="harmonicclosnesscentrality">0.30369630369630374</data>
+            <data key="betweenesscentrality">0.2154043139958633</data>
+            <data key="size">14.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">-252.9961</data>
+            <data key="y">-76.406166</data>
+        </node>
+        <node id="n58">
+            <data key="label">Monitoring</data>
+            <data key="degree">3</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.60504204</data>
+            <data key="harmonic_closeness_centrality">0.6736111</data>
+            <data key="betweenness_centrality">0.007824824</data>
+            <data key="weighted_degree">126.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">44.0</data>
+            <data key="closnesscentrality">0.26879699248120303</data>
+            <data key="harmonicclosnesscentrality">0.31888111888111936</data>
+            <data key="betweenesscentrality">0.027873534915788437</data>
+            <data key="size">12.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">5.912923</data>
+            <data key="y">61.43059</data>
+        </node>
+        <node id="n108">
+            <data key="label">3d Modelling</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.58536583</data>
+            <data key="harmonic_closeness_centrality">0.650463</data>
+            <data key="betweenness_centrality">0.0071052792</data>
+            <data key="weighted_degree">51.0</data>
+            <data key="modularity_class">12</data>
+            <data key="weighted degree">4.0</data>
+            <data key="closnesscentrality">0.18239795918367346</data>
+            <data key="harmonicclosnesscentrality">0.204123654123654</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">23.209229</data>
+            <data key="y">345.2996</data>
+        </node>
+        <node id="n25">
+            <data key="label">Manufacturing</data>
+            <data key="degree">3</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.5925926</data>
+            <data key="harmonic_closeness_centrality">0.65625</data>
+            <data key="betweenness_centrality">0.008096832</data>
+            <data key="weighted_degree">125.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">50.0</data>
+            <data key="closnesscentrality">0.26879699248120303</data>
+            <data key="harmonicclosnesscentrality">0.3188811188811193</data>
+            <data key="betweenesscentrality">0.027873534915788437</data>
+            <data key="size">12.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-115.89957</data>
+            <data key="y">58.65914</data>
+        </node>
+        <node id="n102">
+            <data key="label">Anomaly Detection</data>
+            <data key="degree">4</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.5647059</data>
+            <data key="harmonic_closeness_centrality">0.6168981</data>
+            <data key="betweenness_centrality">0.00741998</data>
+            <data key="weighted_degree">60.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">19.0</data>
+            <data key="closnesscentrality">0.2708333333333333</data>
+            <data key="harmonicclosnesscentrality">0.32529137529137575</data>
+            <data key="betweenesscentrality">0.0552546045503792</data>
+            <data key="size">13.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">349.76376</data>
+            <data key="y">-181.9245</data>
+        </node>
+        <node id="n12">
+            <data key="label">Computational Modeling</data>
+            <data key="degree">6</data>
+            <data key="eccentricity">6.0</data>
+            <data key="closeness_centrality">0.58536583</data>
+            <data key="harmonic_closeness_centrality">0.6458333</data>
+            <data key="betweenness_centrality">0.011828018</data>
+            <data key="weighted_degree">129.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">55.0</data>
+            <data key="closnesscentrality">0.3325581395348837</data>
+            <data key="harmonicclosnesscentrality">0.38659673659673716</data>
+            <data key="betweenesscentrality">0.5663350733773269</data>
+            <data key="size">15.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-175.2184</data>
+            <data key="y">-217.12463</data>
+        </node>
+        <node id="n64">
+            <data key="label">Condition Monitoring</data>
+            <data key="degree">2</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.5737052</data>
+            <data key="harmonic_closeness_centrality">0.6284722</data>
+            <data key="betweenness_centrality">0.01181894</data>
+            <data key="weighted_degree">61.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">21.0</data>
+            <data key="closnesscentrality">0.2739463601532567</data>
+            <data key="harmonicclosnesscentrality">0.3238927738927743</data>
+            <data key="betweenesscentrality">0.09376538954003742</data>
+            <data key="size">11.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">220.23657</data>
+            <data key="y">-56.36921</data>
+        </node>
+        <node id="n87">
+            <data key="label">Predictive Models</data>
+            <data key="degree">2</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.56692916</data>
+            <data key="harmonic_closeness_centrality">0.6203704</data>
+            <data key="betweenness_centrality">0.0034142656</data>
+            <data key="weighted_degree">49.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">6.0</data>
+            <data key="closnesscentrality">0.25087719298245614</data>
+            <data key="harmonicclosnesscentrality">0.2777056277056276</data>
+            <data key="betweenesscentrality">0.013986013986013986</data>
+            <data key="size">11.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-226.9845</data>
+            <data key="y">-197.64949</data>
+        </node>
+        <node id="n137">
+            <data key="label">5g</data>
+            <data key="degree">2</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.5737052</data>
+            <data key="harmonic_closeness_centrality">0.6284722</data>
+            <data key="betweenness_centrality">0.0062033734</data>
+            <data key="weighted_degree">64.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">13.0</data>
+            <data key="closnesscentrality">0.26779026217228463</data>
+            <data key="harmonicclosnesscentrality">0.3142191142191146</data>
+            <data key="betweenesscentrality">0.013986013986013986</data>
+            <data key="size">11.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">59.342724</data>
+            <data key="y">-195.19095</data>
+        </node>
+        <node id="n117">
+            <data key="label">Physical Twin</data>
+            <data key="degree">2</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.5625</data>
+            <data key="harmonic_closeness_centrality">0.6111111</data>
+            <data key="betweenness_centrality">0.004755158</data>
+            <data key="weighted_degree">32.0</data>
+            <data key="modularity_class">7</data>
+            <data key="weighted degree">2.0</data>
+            <data key="closnesscentrality">0.17786069651741293</data>
+            <data key="harmonicclosnesscentrality">0.20056887556887548</data>
+            <data key="betweenesscentrality">0.013986013986013986</data>
+            <data key="size">11.0</data>
+            <data key="r">211</data>
+            <data key="g">179</data>
+            <data key="b">176</data>
+            <data key="x">-136.168</data>
+            <data key="y">484.9807</data>
+        </node>
+        <node id="n134">
+            <data key="label">Network Digital Twin</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.55813956</data>
+            <data key="harmonic_closeness_centrality">0.6087963</data>
+            <data key="betweenness_centrality">0.0037026412</data>
+            <data key="weighted_degree">32.0</data>
+            <data key="modularity_class">1</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.17270531400966183</data>
+            <data key="harmonicclosnesscentrality">0.1876040626040626</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-246.60399</data>
+            <data key="y">-383.09525</data>
+        </node>
+        <node id="n6">
+            <data key="label">Augmented Reality</data>
+            <data key="degree">3</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.5625</data>
+            <data key="harmonic_closeness_centrality">0.6134259</data>
+            <data key="betweenness_centrality">0.0025824017</data>
+            <data key="weighted_degree">67.0</data>
+            <data key="modularity_class">5</data>
+            <data key="weighted degree">31.0</data>
+            <data key="closnesscentrality">0.2739463601532567</data>
+            <data key="harmonicclosnesscentrality">0.327622377622378</data>
+            <data key="betweenesscentrality">0.09435634787747464</data>
+            <data key="size">12.0</data>
+            <data key="r">255</data>
+            <data key="g">85</data>
+            <data key="b">132</data>
+            <data key="x">-197.97899</data>
+            <data key="y">234.65733</data>
+        </node>
+        <node id="n86">
+            <data key="label">Fault Diagnosis</data>
+            <data key="degree">3</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.55172414</data>
+            <data key="harmonic_closeness_centrality">0.5960648</data>
+            <data key="betweenness_centrality">0.0030464327</data>
+            <data key="weighted_degree">57.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">24.0</data>
+            <data key="closnesscentrality">0.2739463601532567</data>
+            <data key="harmonicclosnesscentrality">0.3268065268065272</data>
+            <data key="betweenesscentrality">0.09494730621491185</data>
+            <data key="size">12.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">188.66904</data>
+            <data key="y">172.91637</data>
+        </node>
+        <node id="n118">
+            <data key="label">Neural Network</data>
+            <data key="degree">4</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.60251045</data>
+            <data key="harmonic_closeness_centrality">0.6701389</data>
+            <data key="betweenness_centrality">0.007934353</data>
+            <data key="weighted_degree">54.0</data>
+            <data key="modularity_class">8</data>
+            <data key="weighted degree">6.0</data>
+            <data key="closnesscentrality">0.21732522796352582</data>
+            <data key="harmonicclosnesscentrality">0.2549866799866799</data>
+            <data key="betweenesscentrality">0.04166256278932335</data>
+            <data key="size">13.0</data>
+            <data key="r">192</data>
+            <data key="g">192</data>
+            <data key="b">192</data>
+            <data key="x">275.26508</data>
+            <data key="y">224.41246</data>
+        </node>
+        <node id="n20">
+            <data key="label">Wireless Communication</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.5496183</data>
+            <data key="harmonic_closeness_centrality">0.5925926</data>
+            <data key="betweenness_centrality">7.831343E-4</data>
+            <data key="weighted_degree">47.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">9.0</data>
+            <data key="closnesscentrality">0.2667910447761194</data>
+            <data key="harmonicclosnesscentrality">0.30955710955710997</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-153.34125</data>
+            <data key="y">-29.235722</data>
+        </node>
+        <node id="n69">
+            <data key="label">Reinforcement Learning</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.5538462</data>
+            <data key="harmonic_closeness_centrality">0.599537</data>
+            <data key="betweenness_centrality">0.0017789538</data>
+            <data key="weighted_degree">33.0</data>
+            <data key="modularity_class">3</data>
+            <data key="weighted degree">2.0</data>
+            <data key="closnesscentrality">0.21029411764705883</data>
+            <data key="harmonicclosnesscentrality">0.2370379620379621</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">51.59659</data>
+            <data key="y">-399.3201</data>
+        </node>
+        <node id="n93">
+            <data key="label">Building Information Modeling (bim)</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.56692916</data>
+            <data key="harmonic_closeness_centrality">0.6180556</data>
+            <data key="betweenness_centrality">0.0037407621</data>
+            <data key="weighted_degree">39.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">2.0</data>
+            <data key="closnesscentrality">0.21153846153846154</data>
+            <data key="harmonicclosnesscentrality">0.23494005994005981</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-47.346195</data>
+            <data key="y">-103.36371</data>
+        </node>
+        <node id="n109">
+            <data key="label">Model-based Systems Engineering</data>
+            <data key="degree">4</data>
+            <data key="eccentricity">10.0</data>
+            <data key="closeness_centrality">0.6</data>
+            <data key="harmonic_closeness_centrality">0.6666667</data>
+            <data key="betweenness_centrality">0.011307688</data>
+            <data key="weighted_degree">54.0</data>
+            <data key="modularity_class">12</data>
+            <data key="weighted degree">7.0</data>
+            <data key="closnesscentrality">0.15679824561403508</data>
+            <data key="harmonicclosnesscentrality">0.18747641247641247</data>
+            <data key="betweenesscentrality">0.04166256278932335</data>
+            <data key="size">13.0</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">140.64877</data>
+            <data key="y">536.1849</data>
+        </node>
+        <node id="n100">
+            <data key="label">Analytical Models</data>
+            <data key="degree">3</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.6075949</data>
+            <data key="harmonic_closeness_centrality">0.6770833</data>
+            <data key="betweenness_centrality">0.009399565</data>
+            <data key="weighted_degree">107.0</data>
+            <data key="modularity_class">12</data>
+            <data key="weighted degree">42.0</data>
+            <data key="closnesscentrality">0.2771317829457364</data>
+            <data key="harmonicclosnesscentrality">0.328554778554779</data>
+            <data key="betweenesscentrality">0.13188220230473752</data>
+            <data key="size">12.0</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">76.52235</data>
+            <data key="y">306.2876</data>
+        </node>
+        <node id="n4">
+            <data key="label">Edge Computing</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.5538462</data>
+            <data key="harmonic_closeness_centrality">0.5972222</data>
+            <data key="betweenness_centrality">0.0017204902</data>
+            <data key="weighted_degree">45.0</data>
+            <data key="modularity_class">3</data>
+            <data key="weighted degree">7.0</data>
+            <data key="closnesscentrality">0.21029411764705883</data>
+            <data key="harmonicclosnesscentrality">0.2285464535464535</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">-289.68134</data>
+            <data key="y">-111.994</data>
+        </node>
+        <node id="n36">
+            <data key="label">Metaverse</data>
+            <data key="degree">3</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.5737052</data>
+            <data key="harmonic_closeness_centrality">0.6284722</data>
+            <data key="betweenness_centrality">0.0051123225</data>
+            <data key="weighted_degree">49.0</data>
+            <data key="modularity_class">1</data>
+            <data key="weighted degree">9.0</data>
+            <data key="closnesscentrality">0.20906432748538012</data>
+            <data key="harmonicclosnesscentrality">0.23830336330336332</data>
+            <data key="betweenesscentrality">0.027873534915788437</data>
+            <data key="size">12.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-380.0966</data>
+            <data key="y">-263.64664</data>
+        </node>
+        <node id="n123">
+            <data key="label">Digital Twin Definition</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">11.0</data>
+            <data key="closeness_centrality">0.5475285</data>
+            <data key="harmonic_closeness_centrality">0.5868056</data>
+            <data key="betweenness_centrality">0.0018363256</data>
+            <data key="weighted_degree">28.0</data>
+            <data key="modularity_class">12</data>
+            <data key="weighted degree">2.0</data>
+            <data key="closnesscentrality">0.13567362428842505</data>
+            <data key="harmonicclosnesscentrality">0.15300709391618472</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">115.204895</data>
+            <data key="y">588.07983</data>
+        </node>
+        <node id="n19">
+            <data key="label">Finite Element Analysis (fem)</data>
+            <data key="degree">2</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.5496183</data>
+            <data key="harmonic_closeness_centrality">0.5925926</data>
+            <data key="betweenness_centrality">0.0015509698</data>
+            <data key="weighted_degree">29.0</data>
+            <data key="modularity_class">6</data>
+            <data key="weighted degree">4.0</data>
+            <data key="closnesscentrality">0.21666666666666667</data>
+            <data key="harmonicclosnesscentrality">0.24741092241092233</data>
+            <data key="betweenesscentrality">0.0277750418595489</data>
+            <data key="size">11.0</data>
+            <data key="r">192</data>
+            <data key="g">192</data>
+            <data key="b">192</data>
+            <data key="x">182.69858</data>
+            <data key="y">196.5393</data>
+        </node>
+        <node id="n39">
+            <data key="label">Data Analysis</data>
+            <data key="degree">5</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.5877551</data>
+            <data key="harmonic_closeness_centrality">0.6493056</data>
+            <data key="betweenness_centrality">0.01642388</data>
+            <data key="weighted_degree">57.0</data>
+            <data key="modularity_class">3</data>
+            <data key="weighted degree">9.0</data>
+            <data key="closnesscentrality">0.21279761904761904</data>
+            <data key="harmonicclosnesscentrality">0.25568598068598086</data>
+            <data key="betweenesscentrality">0.05535309760661873</data>
+            <data key="size">14.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">132.19756</data>
+            <data key="y">-561.0254</data>
+        </node>
+        <node id="n66">
+            <data key="label">Real-time Models</data>
+            <data key="degree">2</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.55813956</data>
+            <data key="harmonic_closeness_centrality">0.6064815</data>
+            <data key="betweenness_centrality">0.0029345697</data>
+            <data key="weighted_degree">40.0</data>
+            <data key="modularity_class">4</data>
+            <data key="weighted degree">3.0</data>
+            <data key="closnesscentrality">0.18055555555555555</data>
+            <data key="harmonicclosnesscentrality">0.20756188256188243</data>
+            <data key="betweenesscentrality">0.013986013986013986</data>
+            <data key="size">11.0</data>
+            <data key="r">0</data>
+            <data key="g">189</data>
+            <data key="b">148</data>
+            <data key="x">465.34665</data>
+            <data key="y">-102.241974</data>
+        </node>
+        <node id="n105">
+            <data key="label">Digital Twin Application</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.54545456</data>
+            <data key="harmonic_closeness_centrality">0.587963</data>
+            <data key="betweenness_centrality">8.7377435E-4</data>
+            <data key="weighted_degree">29.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">2.0</data>
+            <data key="closnesscentrality">0.21343283582089553</data>
+            <data key="harmonicclosnesscentrality">0.2401848151848151</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">346.00357</data>
+            <data key="y">-338.513</data>
+        </node>
+        <node id="n126">
+            <data key="label">Computer Vision</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.53932583</data>
+            <data key="harmonic_closeness_centrality">0.5798611</data>
+            <data key="betweenness_centrality">6.865176E-4</data>
+            <data key="weighted_degree">46.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">14.0</data>
+            <data key="closnesscentrality">0.2667910447761194</data>
+            <data key="harmonicclosnesscentrality">0.30955710955710997</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-0.27869606</data>
+            <data key="y">-209.27756</data>
+        </node>
+        <node id="n49">
+            <data key="label">Intelligent Maintenance Systems</data>
+            <data key="degree">2</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.5413534</data>
+            <data key="harmonic_closeness_centrality">0.5787037</data>
+            <data key="betweenness_centrality">0.0016297109</data>
+            <data key="weighted_degree">26.0</data>
+            <data key="modularity_class">10</data>
+            <data key="weighted degree">3.0</data>
+            <data key="closnesscentrality">0.21407185628742514</data>
+            <data key="harmonicclosnesscentrality">0.24403096903096894</data>
+            <data key="betweenesscentrality">0.013986013986013986</data>
+            <data key="size">11.0</data>
+            <data key="r">192</data>
+            <data key="g">192</data>
+            <data key="b">192</data>
+            <data key="x">392.4519</data>
+            <data key="y">-202.53453</data>
+        </node>
+        <node id="n60">
+            <data key="label">Predictive Maintenance</data>
+            <data key="degree">2</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.54545456</data>
+            <data key="harmonic_closeness_centrality">0.5833333</data>
+            <data key="betweenness_centrality">0.0015501488</data>
+            <data key="weighted_degree">52.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">20.0</data>
+            <data key="closnesscentrality">0.26779026217228463</data>
+            <data key="harmonicclosnesscentrality">0.31421911421911464</data>
+            <data key="betweenesscentrality">0.013986013986013986</data>
+            <data key="size">11.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-37.913048</data>
+            <data key="y">-78.99776</data>
+        </node>
+        <node id="n54">
+            <data key="label">Bayesian Method</data>
+            <data key="degree">2</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.535316</data>
+            <data key="harmonic_closeness_centrality">0.5706019</data>
+            <data key="betweenness_centrality">0.0032578153</data>
+            <data key="weighted_degree">22.0</data>
+            <data key="modularity_class">6</data>
+            <data key="weighted degree">3.0</data>
+            <data key="closnesscentrality">0.17875</data>
+            <data key="harmonicclosnesscentrality">0.20091852591852583</data>
+            <data key="betweenesscentrality">0.013986013986013986</data>
+            <data key="size">11.0</data>
+            <data key="r">192</data>
+            <data key="g">192</data>
+            <data key="b">192</data>
+            <data key="x">178.9416</data>
+            <data key="y">218.5252</data>
+        </node>
+        <node id="n46">
+            <data key="label">Physics-based Model</data>
+            <data key="degree">2</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.535316</data>
+            <data key="harmonic_closeness_centrality">0.5706019</data>
+            <data key="betweenness_centrality">0.001507379</data>
+            <data key="weighted_degree">23.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">4.0</data>
+            <data key="closnesscentrality">0.26779026217228463</data>
+            <data key="harmonicclosnesscentrality">0.3142191142191146</data>
+            <data key="betweenesscentrality">0.013986013986013986</data>
+            <data key="size">11.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">369.87167</data>
+            <data key="y">98.54722</data>
+        </node>
+        <node id="n50">
+            <data key="label">Inspection And Quality Control</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.53731346</data>
+            <data key="harmonic_closeness_centrality">0.5763889</data>
+            <data key="betweenness_centrality">6.6403474E-4</data>
+            <data key="weighted_degree">24.0</data>
+            <data key="modularity_class">5</data>
+            <data key="weighted degree">2.0</data>
+            <data key="closnesscentrality">0.17964824120603015</data>
+            <data key="harmonicclosnesscentrality">0.20250027750027738</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">85</data>
+            <data key="b">132</data>
+            <data key="x">-309.21826</data>
+            <data key="y">445.69022</data>
+        </node>
+        <node id="n140">
+            <data key="label">Digital Twin Model</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.5625</data>
+            <data key="harmonic_closeness_centrality">0.6157407</data>
+            <data key="betweenness_centrality">0.0024138782</data>
+            <data key="weighted_degree">36.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">2.0</data>
+            <data key="closnesscentrality">0.25</data>
+            <data key="harmonicclosnesscentrality">0.27304362304362284</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-83.20108</data>
+            <data key="y">-240.50562</data>
+        </node>
+        <node id="n98">
+            <data key="label">Production Engineering</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.53333336</data>
+            <data key="harmonic_closeness_centrality">0.5648148</data>
+            <data key="betweenness_centrality">2.7962012E-4</data>
+            <data key="weighted_degree">21.0</data>
+            <data key="modularity_class">3</data>
+            <data key="weighted degree">2.0</data>
+            <data key="closnesscentrality">0.21029411764705883</data>
+            <data key="harmonicclosnesscentrality">0.2285464535464535</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">-356.4489</data>
+            <data key="y">-94.59924</data>
+        </node>
+        <node id="n3">
+            <data key="label">Maintenance Engineering</data>
+            <data key="degree">2</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.5294118</data>
+            <data key="harmonic_closeness_centrality">0.5578704</data>
+            <data key="betweenness_centrality">3.8361838E-4</data>
+            <data key="weighted_degree">26.0</data>
+            <data key="modularity_class">12</data>
+            <data key="weighted degree">6.0</data>
+            <data key="closnesscentrality">0.18427835051546393</data>
+            <data key="harmonicclosnesscentrality">0.21403041403041395</data>
+            <data key="betweenesscentrality">0.054762139269181526</data>
+            <data key="size">11.0</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">119.284836</data>
+            <data key="y">462.28378</data>
+        </node>
+        <node id="n10">
+            <data key="label">Mixed Reality</data>
+            <data key="degree">2</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.5294118</data>
+            <data key="harmonic_closeness_centrality">0.5625</data>
+            <data key="betweenness_centrality">5.594951E-4</data>
+            <data key="weighted_degree">45.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">14.0</data>
+            <data key="closnesscentrality">0.2708333333333333</data>
+            <data key="harmonicclosnesscentrality">0.31864801864801906</data>
+            <data key="betweenesscentrality">0.054762139269181526</data>
+            <data key="size">11.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-110.71811</data>
+            <data key="y">391.56256</data>
+        </node>
+        <node id="n59">
+            <data key="label">Soft Sensors</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.5294118</data>
+            <data key="harmonic_closeness_centrality">0.5601852</data>
+            <data key="betweenness_centrality">9.3226467E-4</data>
+            <data key="weighted_degree">19.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">2.0</data>
+            <data key="closnesscentrality">0.21153846153846154</data>
+            <data key="harmonicclosnesscentrality">0.23494005994005981</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-18.22068</data>
+            <data key="y">-188.38065</data>
+        </node>
+        <node id="n112">
+            <data key="label">Digital Manufacturing System</data>
+            <data key="degree">3</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.55598456</data>
+            <data key="harmonic_closeness_centrality">0.6030093</data>
+            <data key="betweenness_centrality">0.0036344028</data>
+            <data key="weighted_degree">34.0</data>
+            <data key="modularity_class">3</data>
+            <data key="weighted degree">6.0</data>
+            <data key="closnesscentrality">0.21216617210682492</data>
+            <data key="harmonicclosnesscentrality">0.2481102231102233</data>
+            <data key="betweenesscentrality">0.04156406973308382</data>
+            <data key="size">12.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">-33.328728</data>
+            <data key="y">-539.94104</data>
+        </node>
+        <node id="n121">
+            <data key="label">Digital Twin Technology</data>
+            <data key="degree">2</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.52363634</data>
+            <data key="harmonic_closeness_centrality">0.5543981</data>
+            <data key="betweenness_centrality">4.8713558E-4</data>
+            <data key="weighted_degree">18.0</data>
+            <data key="modularity_class">1</data>
+            <data key="weighted degree">3.0</data>
+            <data key="closnesscentrality">0.20845481049562684</data>
+            <data key="harmonicclosnesscentrality">0.23364135864135863</data>
+            <data key="betweenesscentrality">0.013986013986013986</data>
+            <data key="size">11.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-274.74866</data>
+            <data key="y">-359.4402</data>
+        </node>
+        <node id="n41">
+            <data key="label">Digital Twin (dt) Systems</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.52747256</data>
+            <data key="harmonic_closeness_centrality">0.5590278</data>
+            <data key="betweenness_centrality">3.3762056E-4</data>
+            <data key="weighted_degree">20.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">2.0</data>
+            <data key="closnesscentrality">0.2667910447761194</data>
+            <data key="harmonicclosnesscentrality">0.30955710955710997</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">230.33234</data>
+            <data key="y">99.44559</data>
+        </node>
+        <node id="n130">
+            <data key="label">Multiagent Systems</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.52747256</data>
+            <data key="harmonic_closeness_centrality">0.5543981</data>
+            <data key="betweenness_centrality">8.521135E-5</data>
+            <data key="weighted_degree">19.0</data>
+            <data key="modularity_class">3</data>
+            <data key="weighted degree">2.0</data>
+            <data key="closnesscentrality">0.21029411764705883</data>
+            <data key="harmonicclosnesscentrality">0.2285464535464535</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">-203.68857</data>
+            <data key="y">-54.570034</data>
+        </node>
+        <node id="n82">
+            <data key="label">Wearable Technologies</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.52554744</data>
+            <data key="harmonic_closeness_centrality">0.5532407</data>
+            <data key="betweenness_centrality">1.6831739E-4</data>
+            <data key="weighted_degree">18.0</data>
+            <data key="modularity_class">3</data>
+            <data key="weighted degree">2.0</data>
+            <data key="closnesscentrality">0.17567567567567569</data>
+            <data key="harmonicclosnesscentrality">0.1971611721611721</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">199.19417</data>
+            <data key="y">-541.8091</data>
+        </node>
+        <node id="n143">
+            <data key="label">Machine Health Monitoring</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.52747256</data>
+            <data key="harmonic_closeness_centrality">0.5543981</data>
+            <data key="betweenness_centrality">7.477774E-5</data>
+            <data key="weighted_degree">18.0</data>
+            <data key="modularity_class">4</data>
+            <data key="weighted degree">2.0</data>
+            <data key="closnesscentrality">0.1801007556675063</data>
+            <data key="harmonicclosnesscentrality">0.20289987789987776</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">189</data>
+            <data key="b">148</data>
+            <data key="x">242.61655</data>
+            <data key="y">-75.10437</data>
+        </node>
+        <node id="n35">
+            <data key="label">Surrogate Modeling</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.5198556</data>
+            <data key="harmonic_closeness_centrality">0.5451389</data>
+            <data key="betweenness_centrality">2.1821004E-4</data>
+            <data key="weighted_degree">17.0</data>
+            <data key="modularity_class">3</data>
+            <data key="weighted degree">3.0</data>
+            <data key="closnesscentrality">0.21029411764705883</data>
+            <data key="harmonicclosnesscentrality">0.23703796203796204</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">-82.31572</data>
+            <data key="y">-435.1742</data>
+        </node>
+        <node id="n17">
+            <data key="label">Virtual Sensing</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.51428574</data>
+            <data key="harmonic_closeness_centrality">0.5393519</data>
+            <data key="betweenness_centrality">5.001003E-4</data>
+            <data key="weighted_degree">18.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">6.0</data>
+            <data key="closnesscentrality">0.2667910447761194</data>
+            <data key="harmonicclosnesscentrality">0.30955710955710997</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">181.79724</data>
+            <data key="y">-18.80736</data>
+        </node>
+        <node id="n27">
+            <data key="label">Industrial Internet</data>
+            <data key="degree">2</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.516129</data>
+            <data key="harmonic_closeness_centrality">0.5358796</data>
+            <data key="betweenness_centrality">2.789724E-4</data>
+            <data key="weighted_degree">16.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">4.0</data>
+            <data key="closnesscentrality">0.26779026217228463</data>
+            <data key="harmonicclosnesscentrality">0.3142191142191146</data>
+            <data key="betweenesscentrality">0.013986013986013986</data>
+            <data key="size">11.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-337.79248</data>
+            <data key="y">272.35925</data>
+        </node>
+        <node id="n57">
+            <data key="label">Hybrid Digital Twin</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.516129</data>
+            <data key="harmonic_closeness_centrality">0.5381944</data>
+            <data key="betweenness_centrality">2.0678224E-5</data>
+            <data key="weighted_degree">12.0</data>
+            <data key="modularity_class">1</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.20784883720930233</data>
+            <data key="harmonicclosnesscentrality">0.22897935397935398</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-255.15662</data>
+            <data key="y">-313.91776</data>
+        </node>
+        <node id="n8">
+            <data key="label">Information Management</data>
+            <data key="degree">2</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.5124555</data>
+            <data key="harmonic_closeness_centrality">0.5358796</data>
+            <data key="betweenness_centrality">2.2279368E-4</data>
+            <data key="weighted_degree">23.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">9.0</data>
+            <data key="closnesscentrality">0.26779026217228463</data>
+            <data key="harmonicclosnesscentrality">0.3142191142191147</data>
+            <data key="betweenesscentrality">0.013986013986013986</data>
+            <data key="size">11.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-15.300434</data>
+            <data key="y">-157.88683</data>
+        </node>
+        <node id="n9">
+            <data key="label">Signal Processing</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.51428574</data>
+            <data key="harmonic_closeness_centrality">0.5347222</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">12.0</data>
+            <data key="modularity_class">3</data>
+            <data key="weighted degree">2.0</data>
+            <data key="closnesscentrality">0.21029411764705883</data>
+            <data key="harmonicclosnesscentrality">0.23703796203796204</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">19.038267</data>
+            <data key="y">-381.99026</data>
+        </node>
+        <node id="n7">
+            <data key="label">Nde 4</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.5034965</data>
+            <data key="harmonic_closeness_centrality">0.5185185</data>
+            <data key="betweenness_centrality">1.813595E-5</data>
+            <data key="weighted_degree">10.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">2.0</data>
+            <data key="closnesscentrality">0.2667910447761194</data>
+            <data key="harmonicclosnesscentrality">0.30955710955710997</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">155.46402</data>
+            <data key="y">-150.62067</data>
+        </node>
+        <node id="n14">
+            <data key="label">Image Processing</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.5294118</data>
+            <data key="harmonic_closeness_centrality">0.5601852</data>
+            <data key="betweenness_centrality">1.9128351E-4</data>
+            <data key="weighted_degree">21.0</data>
+            <data key="modularity_class">8</data>
+            <data key="weighted degree">2.0</data>
+            <data key="closnesscentrality">0.17875</data>
+            <data key="harmonicclosnesscentrality">0.19882062382062374</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">192</data>
+            <data key="g">192</data>
+            <data key="b">192</data>
+            <data key="x">276.6282</data>
+            <data key="y">274.09714</data>
+        </node>
+        <node id="n28">
+            <data key="label">Parallel Computing</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.5017422</data>
+            <data key="harmonic_closeness_centrality">0.5173611</data>
+            <data key="betweenness_centrality">2.7750027E-6</data>
+            <data key="weighted_degree">9.0</data>
+            <data key="modularity_class">8</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.17875</data>
+            <data key="harmonicclosnesscentrality">0.19882062382062374</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">192</data>
+            <data key="g">192</data>
+            <data key="b">192</data>
+            <data key="x">308.7413</data>
+            <data key="y">254.3041</data>
+        </node>
+        <node id="n29">
+            <data key="label">Petri Nets (pns)</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.50883394</data>
+            <data key="harmonic_closeness_centrality">0.5289352</data>
+            <data key="betweenness_centrality">1.12467525E-4</data>
+            <data key="weighted_degree">10.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.21216617210682492</data>
+            <data key="harmonicclosnesscentrality">0.23668831168831156</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-5.4862986</data>
+            <data key="y">99.00326</data>
+        </node>
+        <node id="n81">
+            <data key="label">Architecture Of Digital Twin</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.51428574</data>
+            <data key="harmonic_closeness_centrality">0.537037</data>
+            <data key="betweenness_centrality">9.364206E-5</data>
+            <data key="weighted_degree">12.0</data>
+            <data key="modularity_class">1</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.20784883720930233</data>
+            <data key="harmonicclosnesscentrality">0.22897935397935398</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-337.165</data>
+            <data key="y">-404.34665</data>
+        </node>
+        <node id="n113">
+            <data key="label">Industrial Ai</data>
+            <data key="degree">2</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.50883394</data>
+            <data key="harmonic_closeness_centrality">0.53125</data>
+            <data key="betweenness_centrality">2.4281273E-6</data>
+            <data key="weighted_degree">14.0</data>
+            <data key="modularity_class">1</data>
+            <data key="weighted degree">4.0</data>
+            <data key="closnesscentrality">0.17567567567567569</data>
+            <data key="harmonicclosnesscentrality">0.19960872460872456</data>
+            <data key="betweenesscentrality">0.04136708362060475</data>
+            <data key="size">11.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-461.43658</data>
+            <data key="y">-358.38782</data>
+        </node>
+        <node id="n13">
+            <data key="label">Mirrors</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.50526315</data>
+            <data key="harmonic_closeness_centrality">0.5266204</data>
+            <data key="betweenness_centrality">2.1381804E-5</data>
+            <data key="weighted_degree">12.0</data>
+            <data key="modularity_class">5</data>
+            <data key="weighted degree">2.0</data>
+            <data key="closnesscentrality">0.17964824120603015</data>
+            <data key="harmonicclosnesscentrality">0.20250027750027738</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">85</data>
+            <data key="b">132</data>
+            <data key="x">-281.51126</data>
+            <data key="y">357.03705</data>
+        </node>
+        <node id="n45">
+            <data key="label">Clustering Algorithms</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.50883394</data>
+            <data key="harmonic_closeness_centrality">0.5266204</data>
+            <data key="betweenness_centrality">6.4750066E-6</data>
+            <data key="weighted_degree">10.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">2.0</data>
+            <data key="closnesscentrality">0.21343283582089553</data>
+            <data key="harmonicclosnesscentrality">0.23936896436896424</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">381.9126</data>
+            <data key="y">-150.90779</data>
+        </node>
+        <node id="n52">
+            <data key="label">Virtual Factory</data>
+            <data key="degree">2</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.50883394</data>
+            <data key="harmonic_closeness_centrality">0.5266204</data>
+            <data key="betweenness_centrality">0.0022722778</data>
+            <data key="weighted_degree">15.0</data>
+            <data key="modularity_class">3</data>
+            <data key="weighted degree">3.0</data>
+            <data key="closnesscentrality">0.17567567567567569</data>
+            <data key="harmonicclosnesscentrality">0.1992590742590742</data>
+            <data key="betweenesscentrality">0.013986013986013986</data>
+            <data key="size">11.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">-61.814938</data>
+            <data key="y">-620.8775</data>
+        </node>
+        <node id="n115">
+            <data key="label">Technology</data>
+            <data key="degree">2</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.53136533</data>
+            <data key="harmonic_closeness_centrality">0.5659722</data>
+            <data key="betweenness_centrality">0.0015559167</data>
+            <data key="weighted_degree">26.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">5.0</data>
+            <data key="closnesscentrality">0.26779026217228463</data>
+            <data key="harmonicclosnesscentrality">0.3142191142191146</data>
+            <data key="betweenesscentrality">0.013986013986013986</data>
+            <data key="size">11.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-204.55602</data>
+            <data key="y">52.960304</data>
+        </node>
+        <node id="n65">
+            <data key="label">In Silico Clinical Trials</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.5070422</data>
+            <data key="harmonic_closeness_centrality">0.525463</data>
+            <data key="betweenness_centrality">3.164918E-5</data>
+            <data key="weighted_degree">9.0</data>
+            <data key="modularity_class">1</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.17312348668280872</data>
+            <data key="harmonicclosnesscentrality">0.18935231435231434</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-424.26288</data>
+            <data key="y">-241.59206</data>
+        </node>
+        <node id="n74">
+            <data key="label">Virtual Twin</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.5</data>
+            <data key="harmonic_closeness_centrality">0.5162037</data>
+            <data key="betweenness_centrality">2.8033835E-5</data>
+            <data key="weighted_degree">11.0</data>
+            <data key="modularity_class">9</data>
+            <data key="weighted degree">5.0</data>
+            <data key="closnesscentrality">0.17610837438423646</data>
+            <data key="harmonicclosnesscentrality">0.1931762681762681</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">192</data>
+            <data key="g">192</data>
+            <data key="b">192</data>
+            <data key="x">376.11194</data>
+            <data key="y">50.873093</data>
+        </node>
+        <node id="n127">
+            <data key="label">Unity3d</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.5124555</data>
+            <data key="harmonic_closeness_centrality">0.5289352</data>
+            <data key="betweenness_centrality">7.327778E-5</data>
+            <data key="weighted_degree">10.0</data>
+            <data key="modularity_class">5</data>
+            <data key="weighted degree">2.0</data>
+            <data key="closnesscentrality">0.17964824120603015</data>
+            <data key="harmonicclosnesscentrality">0.20250027750027738</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">85</data>
+            <data key="b">132</data>
+            <data key="x">-267.74603</data>
+            <data key="y">464.60022</data>
+        </node>
+        <node id="n40">
+            <data key="label">Intelligent Automation</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">11.0</data>
+            <data key="closeness_centrality">0.50883394</data>
+            <data key="harmonic_closeness_centrality">0.5243056</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">8.0</data>
+            <data key="modularity_class">12</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.13567362428842505</data>
+            <data key="harmonicclosnesscentrality">0.1530070939161847</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">198.78964</data>
+            <data key="y">564.042</data>
+        </node>
+        <node id="n77">
+            <data key="label">Data-driven Monitoring</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.5</data>
+            <data key="harmonic_closeness_centrality">0.5162037</data>
+            <data key="betweenness_centrality">3.291888E-5</data>
+            <data key="weighted_degree">7.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.21216617210682492</data>
+            <data key="harmonicclosnesscentrality">0.23668831168831156</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">23.09726</data>
+            <data key="y">96.25551</data>
+        </node>
+        <node id="n71">
+            <data key="label">Information Integration (ii)</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.5034965</data>
+            <data key="harmonic_closeness_centrality">0.5185185</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">7.0</data>
+            <data key="modularity_class">3</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.21029411764705883</data>
+            <data key="harmonicclosnesscentrality">0.23703796203796204</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">-101.05984</data>
+            <data key="y">-478.4889</data>
+        </node>
+        <node id="n75">
+            <data key="label">Synthetic Dataset</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.5106383</data>
+            <data key="harmonic_closeness_centrality">0.5277778</data>
+            <data key="betweenness_centrality">5.713241E-6</data>
+            <data key="weighted_degree">9.0</data>
+            <data key="modularity_class">1</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.17312348668280872</data>
+            <data key="harmonicclosnesscentrality">0.18935231435231434</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-363.30582</data>
+            <data key="y">-227.06357</data>
+        </node>
+        <node id="n2">
+            <data key="label">Project Management</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.5124555</data>
+            <data key="harmonic_closeness_centrality">0.5335648</data>
+            <data key="betweenness_centrality">6.160706E-4</data>
+            <data key="weighted_degree">12.0</data>
+            <data key="modularity_class">10</data>
+            <data key="weighted degree">2.0</data>
+            <data key="closnesscentrality">0.1765432098765432</data>
+            <data key="harmonicclosnesscentrality">0.19410866910866903</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">192</data>
+            <data key="g">192</data>
+            <data key="b">192</data>
+            <data key="x">437.5772</data>
+            <data key="y">-229.75797</data>
+        </node>
+        <node id="n15">
+            <data key="label">Fault Extension</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.49315068</data>
+            <data key="harmonic_closeness_centrality">0.5069444</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">5.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.20084269662921347</data>
+            <data key="harmonicclosnesscentrality">0.21594239094239087</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-267.65054</data>
+            <data key="y">-178.63702</data>
+        </node>
+        <node id="n32">
+            <data key="label">Dynamic Processes</data>
+            <data key="degree">2</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.53731346</data>
+            <data key="harmonic_closeness_centrality">0.5787037</data>
+            <data key="betweenness_centrality">0.0017207839</data>
+            <data key="weighted_degree">26.0</data>
+            <data key="modularity_class">11</data>
+            <data key="weighted degree">2.0</data>
+            <data key="closnesscentrality">0.21279761904761904</data>
+            <data key="harmonicclosnesscentrality">0.24053446553446545</data>
+            <data key="betweenesscentrality">0.013986013986013986</data>
+            <data key="size">11.0</data>
+            <data key="r">192</data>
+            <data key="g">192</data>
+            <data key="b">192</data>
+            <data key="x">591.8207</data>
+            <data key="y">110.82902</data>
+        </node>
+        <node id="n56">
+            <data key="label">Predictive Control</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.5</data>
+            <data key="harmonic_closeness_centrality">0.5115741</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">5.0</data>
+            <data key="modularity_class">12</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.18239795918367346</data>
+            <data key="harmonicclosnesscentrality">0.20412365412365402</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">12.116001</data>
+            <data key="y">376.7554</data>
+        </node>
+        <node id="n63">
+            <data key="label">Process Intelligence</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.5106383</data>
+            <data key="harmonic_closeness_centrality">0.5300926</data>
+            <data key="betweenness_centrality">8.513186E-5</data>
+            <data key="weighted_degree">10.0</data>
+            <data key="modularity_class">12</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.21732522796352582</data>
+            <data key="harmonicclosnesscentrality">0.24219946719946708</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">151.00443</data>
+            <data key="y">322.27356</data>
+        </node>
+        <node id="n72">
+            <data key="label">Mbse</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">11.0</data>
+            <data key="closeness_centrality">0.49484536</data>
+            <data key="harmonic_closeness_centrality">0.5104167</data>
+            <data key="betweenness_centrality">2.183738E-5</data>
+            <data key="weighted_degree">7.0</data>
+            <data key="modularity_class">12</data>
+            <data key="weighted degree">2.0</data>
+            <data key="closnesscentrality">0.13567362428842505</data>
+            <data key="harmonicclosnesscentrality">0.1530070939161847</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">91.23126</data>
+            <data key="y">563.5875</data>
+        </node>
+        <node id="n88">
+            <data key="label">Autoregressive Technique</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.49315068</data>
+            <data key="harmonic_closeness_centrality">0.5023148</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">3.0</data>
+            <data key="modularity_class">3</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.21029411764705883</data>
+            <data key="harmonicclosnesscentrality">0.23703796203796204</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">-122.4547</data>
+            <data key="y">-509.7039</data>
+        </node>
+        <node id="n95">
+            <data key="label">Machining Processes</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.49484536</data>
+            <data key="harmonic_closeness_centrality">0.5081019</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">5.0</data>
+            <data key="modularity_class">3</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.17524509803921567</data>
+            <data key="harmonicclosnesscentrality">0.19459706959706954</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">-86.073296</data>
+            <data key="y">-595.79553</data>
+        </node>
+        <node id="n99">
+            <data key="label">Simulation-based Diagnosis</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.49655172</data>
+            <data key="harmonic_closeness_centrality">0.5092593</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">5.0</data>
+            <data key="modularity_class">3</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.21029411764705883</data>
+            <data key="harmonicclosnesscentrality">0.23703796203796204</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">150.3653</data>
+            <data key="y">-490.75806</data>
+        </node>
+        <node id="n107">
+            <data key="label">Metadata</data>
+            <data key="degree">2</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.52363634</data>
+            <data key="harmonic_closeness_centrality">0.5520833</data>
+            <data key="betweenness_centrality">5.547246E-4</data>
+            <data key="weighted_degree">19.0</data>
+            <data key="modularity_class">3</data>
+            <data key="weighted degree">3.0</data>
+            <data key="closnesscentrality">0.21091445427728614</data>
+            <data key="harmonicclosnesscentrality">0.2416999666999668</data>
+            <data key="betweenesscentrality">0.013986013986013986</data>
+            <data key="size">11.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">96.84471</data>
+            <data key="y">-436.8714</data>
+        </node>
+        <node id="n111">
+            <data key="label">Virtual Simulation</data>
+            <data key="degree">2</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.5538462</data>
+            <data key="harmonic_closeness_centrality">0.599537</data>
+            <data key="betweenness_centrality">0.0058114384</data>
+            <data key="weighted_degree">31.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">3.0</data>
+            <data key="closnesscentrality">0.26779026217228463</data>
+            <data key="harmonicclosnesscentrality">0.3142191142191146</data>
+            <data key="betweenesscentrality">0.013986013986013986</data>
+            <data key="size">11.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">458.36517</data>
+            <data key="y">312.19934</data>
+        </node>
+        <node id="n122">
+            <data key="label">Internet Topology</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.49655172</data>
+            <data key="harmonic_closeness_centrality">0.5092593</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">5.0</data>
+            <data key="modularity_class">3</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.174390243902439</data>
+            <data key="harmonicclosnesscentrality">0.19191641691641687</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">178.23671</data>
+            <data key="y">-421.71695</data>
+        </node>
+        <node id="n125">
+            <data key="label">Multi-station Assembly</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.44859812</data>
+            <data key="harmonic_closeness_centrality">0.47569445</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">6.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.21216617210682492</data>
+            <data key="harmonicclosnesscentrality">0.23668831168831156</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-169.6258</data>
+            <data key="y">97.89689</data>
+        </node>
+        <node id="n18">
+            <data key="label">Human Computer Interaction</data>
+            <data key="degree">3</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.5538462</data>
+            <data key="harmonic_closeness_centrality">0.6018519</data>
+            <data key="betweenness_centrality">0.0034664518</data>
+            <data key="weighted_degree">33.0</data>
+            <data key="modularity_class">7</data>
+            <data key="weighted degree">4.0</data>
+            <data key="closnesscentrality">0.21536144578313254</data>
+            <data key="harmonicclosnesscentrality">0.24845987345987336</data>
+            <data key="betweenesscentrality">0.04156406973308382</data>
+            <data key="size">12.0</data>
+            <data key="r">211</data>
+            <data key="g">179</data>
+            <data key="b">176</data>
+            <data key="x">-117.74236</data>
+            <data key="y">416.95135</data>
+        </node>
+        <node id="n79">
+            <data key="label">Information</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">10.0</data>
+            <data key="closeness_centrality">0.49146757</data>
+            <data key="harmonic_closeness_centrality">0.505787</data>
+            <data key="betweenness_centrality">3.8088274E-5</data>
+            <data key="weighted_degree">5.0</data>
+            <data key="modularity_class">7</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.1511627906976744</data>
+            <data key="harmonicclosnesscentrality">0.16558164058164054</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">211</data>
+            <data key="g">179</data>
+            <data key="b">176</data>
+            <data key="x">-141.79921</data>
+            <data key="y">506.18536</data>
+        </node>
+        <node id="n21">
+            <data key="label">Failure Analysis</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.4311377</data>
+            <data key="harmonic_closeness_centrality">0.4560185</data>
+            <data key="betweenness_centrality">2.984334E-4</data>
+            <data key="weighted_degree">4.0</data>
+            <data key="modularity_class">3</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.17567567567567569</data>
+            <data key="harmonicclosnesscentrality">0.1971611721611721</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">205.7537</data>
+            <data key="y">-579.28827</data>
+        </node>
+        <node id="n43">
+            <data key="label">Multi-access Edge Computing</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.4982699</data>
+            <data key="harmonic_closeness_centrality">0.5081019</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">6.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">2.0</data>
+            <data key="closnesscentrality">0.21153846153846154</data>
+            <data key="harmonicclosnesscentrality">0.23494005994005981</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">57.515507</data>
+            <data key="y">-242.69987</data>
+        </node>
+        <node id="n53">
+            <data key="label">Virtual Enterprise</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">10.0</data>
+            <data key="closeness_centrality">0.49655172</data>
+            <data key="harmonic_closeness_centrality">0.5069444</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">4.0</data>
+            <data key="modularity_class">3</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.14958158995815898</data>
+            <data key="harmonicclosnesscentrality">0.1643245643245642</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">-61.629112</data>
+            <data key="y">-653.6749</data>
+        </node>
+        <node id="n70">
+            <data key="label">Metastases</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.49315068</data>
+            <data key="harmonic_closeness_centrality">0.5023148</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">3.0</data>
+            <data key="modularity_class">8</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.17875</data>
+            <data key="harmonicclosnesscentrality">0.19882062382062374</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">192</data>
+            <data key="g">192</data>
+            <data key="b">192</data>
+            <data key="x">232.23921</data>
+            <data key="y">294.18082</data>
+        </node>
+        <node id="n78">
+            <data key="label">Machine Agent</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.48979592</data>
+            <data key="harmonic_closeness_centrality">0.5023148</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">4.0</data>
+            <data key="modularity_class">7</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.1774193548387097</data>
+            <data key="harmonicclosnesscentrality">0.1959068709068708</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">211</data>
+            <data key="g">179</data>
+            <data key="b">176</data>
+            <data key="x">-122.71581</data>
+            <data key="y">437.87537</data>
+        </node>
+        <node id="n106">
+            <data key="label">Social Networking (online)</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.49315068</data>
+            <data key="harmonic_closeness_centrality">0.5046296</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">4.0</data>
+            <data key="modularity_class">11</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.17567567567567569</data>
+            <data key="harmonicclosnesscentrality">0.19224386724386716</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">192</data>
+            <data key="g">192</data>
+            <data key="b">192</data>
+            <data key="x">678.6465</data>
+            <data key="y">126.69055</data>
+        </node>
+        <node id="n124">
+            <data key="label">Virtual And Real Fusion Learning</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.49146757</data>
+            <data key="harmonic_closeness_centrality">0.5034722</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">4.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.21153846153846154</data>
+            <data key="harmonicclosnesscentrality">0.23494005994005981</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-375.10358</data>
+            <data key="y">301.4312</data>
+        </node>
+        <node id="n129">
+            <data key="label">Ar Marker</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.4600639</data>
+            <data key="harmonic_closeness_centrality">0.48032406</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">4.0</data>
+            <data key="modularity_class">4</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.1801007556675063</data>
+            <data key="harmonicclosnesscentrality">0.20289987789987776</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">189</data>
+            <data key="b">148</data>
+            <data key="x">298.76212</data>
+            <data key="y">-97.80953</data>
+        </node>
+        <node id="n132">
+            <data key="label">Intelligent</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.49655172</data>
+            <data key="harmonic_closeness_centrality">0.5069444</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">4.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.21343283582089553</data>
+            <data key="harmonicclosnesscentrality">0.2401848151848151</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">466.22778</data>
+            <data key="y">-341.1331</data>
+        </node>
+        <node id="n22">
+            <data key="label">Signal Detection</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.38196287</data>
+            <data key="harmonic_closeness_centrality">0.4039352</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">3.0</data>
+            <data key="modularity_class">3</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.17567567567567569</data>
+            <data key="harmonicclosnesscentrality">0.1971611721611721</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">117.74043</data>
+            <data key="y">-596.6092</data>
+        </node>
+        <node id="n30">
+            <data key="label">Information Processing</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.4881356</data>
+            <data key="harmonic_closeness_centrality">0.4988426</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">3.0</data>
+            <data key="modularity_class">1</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.174390243902439</data>
+            <data key="harmonicclosnesscentrality">0.1914502164502164</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-502.22116</data>
+            <data key="y">-311.1956</data>
+        </node>
+        <node id="n38">
+            <data key="label">Fault Identification</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">10.0</data>
+            <data key="closeness_centrality">0.49315068</data>
+            <data key="harmonic_closeness_centrality">0.5023148</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">3.0</data>
+            <data key="modularity_class">4</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.15310492505353318</data>
+            <data key="harmonicclosnesscentrality">0.16957764457764454</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">189</data>
+            <data key="b">148</data>
+            <data key="x">493.41013</data>
+            <data key="y">-123.937454</data>
+        </node>
+        <node id="n44">
+            <data key="label">Web3d</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.4881356</data>
+            <data key="harmonic_closeness_centrality">0.4988426</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">3.0</data>
+            <data key="modularity_class">5</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.17964824120603015</data>
+            <data key="harmonicclosnesscentrality">0.20250027750027738</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">85</data>
+            <data key="b">132</data>
+            <data key="x">-319.8626</data>
+            <data key="y">396.1928</data>
+        </node>
+        <node id="n62">
+            <data key="label">Drones</data>
+            <data key="degree">2</data>
+            <data key="eccentricity">7.0</data>
+            <data key="closeness_centrality">0.52363634</data>
+            <data key="harmonic_closeness_centrality">0.5520833</data>
+            <data key="betweenness_centrality">2.4402098E-4</data>
+            <data key="weighted_degree">18.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">4.0</data>
+            <data key="closnesscentrality">0.26879699248120303</data>
+            <data key="harmonicclosnesscentrality">0.31596736596736646</data>
+            <data key="betweenesscentrality">0.0277750418595489</data>
+            <data key="size">11.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">518.6377</data>
+            <data key="y">95.952736</data>
+        </node>
+        <node id="n80">
+            <data key="label">Statistical Finite Element Method</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.48979592</data>
+            <data key="harmonic_closeness_centrality">0.5</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">3.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.21153846153846154</data>
+            <data key="harmonicclosnesscentrality">0.23494005994005981</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">436.06424</data>
+            <data key="y">116.88661</data>
+        </node>
+        <node id="n91">
+            <data key="label">Integrated Design</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.42985076</data>
+            <data key="harmonic_closeness_centrality">0.4525463</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">3.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.21279761904761904</data>
+            <data key="harmonicclosnesscentrality">0.2376207126207125</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">474.18057</data>
+            <data key="y">38.31809</data>
+        </node>
+        <node id="n94">
+            <data key="label">Performance Management</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.49146757</data>
+            <data key="harmonic_closeness_centrality">0.5011574</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">3.0</data>
+            <data key="modularity_class">3</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.17567567567567569</data>
+            <data key="harmonicclosnesscentrality">0.1971611721611721</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">115</data>
+            <data key="g">192</data>
+            <data key="b">0</data>
+            <data key="x">188.465</data>
+            <data key="y">-617.1546</data>
+        </node>
+        <node id="n110">
+            <data key="label">Assembly Process Design</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">11.0</data>
+            <data key="closeness_centrality">0.49315068</data>
+            <data key="harmonic_closeness_centrality">0.5023148</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">3.0</data>
+            <data key="modularity_class">1</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.13071297989031078</data>
+            <data key="harmonicclosnesscentrality">0.14481427663245836</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-501.91953</data>
+            <data key="y">-399.75824</data>
+        </node>
+        <node id="n119">
+            <data key="label">Multi-agent Interaction</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.49315068</data>
+            <data key="harmonic_closeness_centrality">0.5023148</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">3.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.21153846153846154</data>
+            <data key="harmonicclosnesscentrality">0.23494005994005981</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-266.0949</data>
+            <data key="y">71.436745</data>
+        </node>
+        <node id="n128">
+            <data key="label">Openbim</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.49146757</data>
+            <data key="harmonic_closeness_centrality">0.5011574</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">3.0</data>
+            <data key="modularity_class">4</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.1801007556675063</data>
+            <data key="harmonicclosnesscentrality">0.20289987789987776</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">189</data>
+            <data key="b">148</data>
+            <data key="x">396.4556</data>
+            <data key="y">-44.546753</data>
+        </node>
+        <node id="n131">
+            <data key="label">360 Modules</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.4881356</data>
+            <data key="harmonic_closeness_centrality">0.4988426</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">3.0</data>
+            <data key="modularity_class">5</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.21536144578313254</data>
+            <data key="harmonicclosnesscentrality">0.24135031635031626</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">85</data>
+            <data key="b">132</data>
+            <data key="x">-162.81732</data>
+            <data key="y">259.97577</data>
+        </node>
+        <node id="n141">
+            <data key="label">Connected Micro Smart Factory</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.49315068</data>
+            <data key="harmonic_closeness_centrality">0.5023148</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">3.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.21343283582089553</data>
+            <data key="harmonicclosnesscentrality">0.2401848151848151</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">493.40747</data>
+            <data key="y">-295.27646</data>
+        </node>
+        <node id="n34">
+            <data key="label">Twins</data>
+            <data key="degree">2</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.53333336</data>
+            <data key="harmonic_closeness_centrality">0.5694444</data>
+            <data key="betweenness_centrality">6.557412E-4</data>
+            <data key="weighted_degree">25.0</data>
+            <data key="modularity_class">9</data>
+            <data key="weighted degree">6.0</data>
+            <data key="closnesscentrality">0.21343283582089553</data>
+            <data key="harmonicclosnesscentrality">0.2422827172827172</data>
+            <data key="betweenesscentrality">0.013986013986013986</data>
+            <data key="size">11.0</data>
+            <data key="r">192</data>
+            <data key="g">192</data>
+            <data key="b">192</data>
+            <data key="x">393.5807</data>
+            <data key="y">28.9125</data>
+        </node>
+        <node id="n37">
+            <data key="label">Signal Processing Techniques</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.4881356</data>
+            <data key="harmonic_closeness_centrality">0.4965278</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">2.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.21216617210682492</data>
+            <data key="harmonicclosnesscentrality">0.23668831168831156</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">-247.05457</data>
+            <data key="y">113.04751</data>
+        </node>
+        <node id="n68">
+            <data key="label">Contextual Anomaly</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.48979592</data>
+            <data key="harmonic_closeness_centrality">0.4976852</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">2.0</data>
+            <data key="modularity_class">4</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.1801007556675063</data>
+            <data key="harmonicclosnesscentrality">0.20289987789987776</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">189</data>
+            <data key="b">148</data>
+            <data key="x">347.07672</data>
+            <data key="y">-64.71613</data>
+        </node>
+        <node id="n73">
+            <data key="label">Integrated Framework</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.4149856</data>
+            <data key="harmonic_closeness_centrality">0.4363426</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">2.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.21153846153846154</data>
+            <data key="harmonicclosnesscentrality">0.23494005994005987</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">513.7964</data>
+            <data key="y">350.32684</data>
+        </node>
+        <node id="n76">
+            <data key="label">Machine Intelligence</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.4864865</data>
+            <data key="harmonic_closeness_centrality">0.49537036</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">2.0</data>
+            <data key="modularity_class">5</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.17964824120603015</data>
+            <data key="harmonicclosnesscentrality">0.20250027750027738</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">85</data>
+            <data key="b">132</data>
+            <data key="x">-318.94928</data>
+            <data key="y">422.93286</data>
+        </node>
+        <node id="n90">
+            <data key="label">Loop Detectors</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.40677965</data>
+            <data key="harmonic_closeness_centrality">0.42824075</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">2.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.21343283582089553</data>
+            <data key="harmonicclosnesscentrality">0.23936896436896424</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">422.48096</data>
+            <data key="y">-163.37617</data>
+        </node>
+        <node id="n103">
+            <data key="label">Factory Planning</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">8.0</data>
+            <data key="closeness_centrality">0.40336135</data>
+            <data key="harmonic_closeness_centrality">0.4247685</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">2.0</data>
+            <data key="modularity_class">0</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.21343283582089553</data>
+            <data key="harmonicclosnesscentrality">0.2401848151848151</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">223</data>
+            <data key="g">137</data>
+            <data key="b">255</data>
+            <data key="x">415.16266</data>
+            <data key="y">-357.7429</data>
+        </node>
+        <node id="n104">
+            <data key="label">Long Term Evolution</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">9.0</data>
+            <data key="closeness_centrality">0.39452055</data>
+            <data key="harmonic_closeness_centrality">0.41550925</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">2.0</data>
+            <data key="modularity_class">12</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.18239795918367346</data>
+            <data key="harmonicclosnesscentrality">0.20412365412365402</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">255</data>
+            <data key="g">136</data>
+            <data key="b">5</data>
+            <data key="x">175.12862</data>
+            <data key="y">378.36905</data>
+        </node>
+        <node id="n139">
+            <data key="label">Random Finite Set (rfs)</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">10.0</data>
+            <data key="closeness_centrality">0.4881356</data>
+            <data key="harmonic_closeness_centrality">0.4965278</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">2.0</data>
+            <data key="modularity_class">6</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.15180467091295116</data>
+            <data key="harmonicclosnesscentrality">0.16603119103119102</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">192</data>
+            <data key="g">192</data>
+            <data key="b">192</data>
+            <data key="x">174.39749</data>
+            <data key="y">241.79218</data>
+        </node>
+        <node id="n142">
+            <data key="label">Cps Framework</data>
+            <data key="degree">1</data>
+            <data key="eccentricity">11.0</data>
+            <data key="closeness_centrality">0.48979592</data>
+            <data key="harmonic_closeness_centrality">0.4976852</data>
+            <data key="betweenness_centrality">0.0</data>
+            <data key="weighted_degree">2.0</data>
+            <data key="modularity_class">1</data>
+            <data key="weighted degree">1.0</data>
+            <data key="closnesscentrality">0.13071297989031078</data>
+            <data key="harmonicclosnesscentrality">0.14481427663245836</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">196</data>
+            <data key="b">255</data>
+            <data key="x">-554.46954</data>
+            <data key="y">-353.5403</data>
+        </node>
+        <edge id="e1" source="n61" target="n34">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e2" source="n87" target="n15">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e3" source="n39" target="n94">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e4" source="n67" target="n97">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="e5" source="n62" target="n32">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e6" source="n122" target="n107">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e7" source="n23" target="n98">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e8" source="n114" target="n81">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e9" source="n40" target="n109">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e11" source="n58" target="n29">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e12" source="n114" target="n57">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e13" source="n36" target="n65">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e14" source="n67" target="n100">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="e15" source="n67" target="n115">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="e17" source="n33" target="n128">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e19" source="n92" target="n99">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e20" source="n5" target="n44">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e21" source="n18" target="n117">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e22" source="n121" target="n134">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e23" source="n10" target="n18">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e25" source="n39" target="n21">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e26" source="n75" target="n36">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e27" source="n49" target="n102">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e28" source="n86" target="n118">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e29" source="n109" target="n3">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e30" source="n111" target="n73">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e32" source="n109" target="n72">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e33" source="n67" target="n58">
+            <data key="weight">42.0</data>
+        </edge>
+        <edge id="e34" source="n33" target="n129">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e36" source="n95" target="n112">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e37" source="n100" target="n63">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e38" source="n39" target="n22">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e40" source="n34" target="n74">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="e41" source="n130" target="n23">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e42" source="n52" target="n112">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e43" source="n97" target="n103">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e44" source="n92" target="n71">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e45" source="n67" target="n46">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="e46" source="n144" target="n104">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e47" source="n92" target="n9">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e48" source="n92" target="n39">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="e49" source="n92" target="n69">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e50" source="n5" target="n13">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e51" source="n39" target="n82">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e52" source="n32" target="n106">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e54" source="n67" target="n12">
+            <data key="weight">31.0</data>
+        </edge>
+        <edge id="e56" source="n92" target="n88">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e57" source="n33" target="n66">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e58" source="n102" target="n45">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e60" source="n67" target="n111">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e62" source="n67" target="n64">
+            <data key="weight">17.0</data>
+        </edge>
+        <edge id="e63" source="n67" target="n41">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e64" source="n97" target="n132">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e65" source="n58" target="n77">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e66" source="n92" target="n35">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="e67" source="n8" target="n59">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e68" source="n67" target="n60">
+            <data key="weight">18.0</data>
+        </edge>
+        <edge id="e69" source="n92" target="n112">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="e70" source="n78" target="n18">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e71" source="n28" target="n118">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e72" source="n27" target="n124">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e73" source="n137" target="n43">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e74" source="n24" target="n110">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e75" source="n31" target="n113">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e76" source="n37" target="n25">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e77" source="n114" target="n12">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="e79" source="n38" target="n66">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e80" source="n36" target="n114">
+            <data key="weight">7.0</data>
+        </edge>
+        <edge id="e82" source="n115" target="n119">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e84" source="n92" target="n12">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="e85" source="n24" target="n142">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e86" source="n61" target="n91">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e87" source="n67" target="n25">
+            <data key="weight">48.0</data>
+        </edge>
+        <edge id="e89" source="n2" target="n49">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e90" source="n60" target="n93">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e91" source="n24" target="n113">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e92" source="n97" target="n141">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e94" source="n5" target="n127">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e95" source="n54" target="n139">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e96" source="n144" target="n56">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e97" source="n144" target="n3">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="e98" source="n90" target="n102">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e99" source="n109" target="n123">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e100" source="n70" target="n118">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e101" source="n114" target="n121">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e104" source="n12" target="n140">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e105" source="n23" target="n12">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="e106" source="n67" target="n7">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e107" source="n25" target="n125">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e108" source="n87" target="n12">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="e109" source="n67" target="n126">
+            <data key="weight">14.0</data>
+        </edge>
+        <edge id="e110" source="n6" target="n131">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e111" source="n67" target="n137">
+            <data key="weight">11.0</data>
+        </edge>
+        <edge id="e112" source="n6" target="n5">
+            <data key="weight">11.0</data>
+        </edge>
+        <edge id="e113" source="n100" target="n144">
+            <data key="weight">17.0</data>
+        </edge>
+        <edge id="e114" source="n67" target="n102">
+            <data key="weight">15.0</data>
+        </edge>
+        <edge id="e115" source="n117" target="n79">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e116" source="n5" target="n50">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e117" source="n33" target="n143">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e118" source="n46" target="n80">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e119" source="n67" target="n10">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="e120" source="n31" target="n30">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e121" source="n5" target="n76">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e122" source="n144" target="n108">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="e123" source="n4" target="n23">
+            <data key="weight">7.0</data>
+        </edge>
+        <edge id="e124" source="n92" target="n107">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e126" source="n67" target="n86">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="e127" source="n67" target="n8">
+            <data key="weight">7.0</data>
+        </edge>
+        <edge id="e128" source="n52" target="n53">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e129" source="n67" target="n61">
+            <data key="weight">43.0</data>
+        </edge>
+        <edge id="e130" source="n118" target="n14">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e131" source="n54" target="n19">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e132" source="n67" target="n17">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="e133" source="n67" target="n27">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="e134" source="n64" target="n33">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="e136" source="n67" target="n20">
+            <data key="weight">9.0</data>
+        </edge>
+        <edge id="e138" source="n33" target="n68">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="e139" source="n114" target="n31">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="e140" source="n86" target="n19">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e141" source="n97" target="n105">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="e142" source="n67" target="n62">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="e143" source="n67" target="n6">
+            <data key="weight">19.0</data>
+        </edge>
+    </graph>
+</graphml>
